@@ -1,3 +1,19 @@
+# Start Next
+
+
+Landing Page Start Next construída (em desenvolvimento) com as tecnologias Next JS e React.
+
+
+## Preview Demo
+
+https://start-next.vercel.app/
+
+-----------------------------------------------------------
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 ## Getting Started
 
 Install the dependencies and run the development server
