@@ -1,7 +1,7 @@
 # Start Next
 
 
-Landing Page Start Next construída (em desenvolvimento) com as tecnologias Next JS e React.
+Landing Page Start Next em desenvolvimento utilizando as tecnologias Next JS e React.
 
 
 ## Preview Demo
