@@ -5,7 +5,7 @@ Landing Page Start Next em desenvolvimento utilizando as tecnologias Next JS e R
 
 <br>
 
-## Tecnologias
+## Tecnologias (em construção)
 
 Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
