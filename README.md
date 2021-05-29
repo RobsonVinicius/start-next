@@ -29,17 +29,24 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Install the dependencies and run the development server
+Install the dependencies: 
 
 ```bash
 npm install
+# or 
+yarn install
+```
+Run the development server:
+```bash
 npm run dev
 # or
 yarn
 yarn dev
 ```
 
+### NOTA:
+
 ```
-*/ NOTA: Problema com o Build "Loader", utilizar next versão superior "next": "10.0.3"
+* Utilizar next versão superior "next": "10.0.3" (Problema com o Build "Loader")
 
 ```
