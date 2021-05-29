@@ -47,6 +47,6 @@ yarn dev
 ### NOTA:
 
 ```
-* Utilizar next versão superior "next": "10.0.3" (Problema com o Build "Loader")
+* Utilizar o Next na versão superior a "next": "10.0.3" para evitar o problema com o Build "Loader"
 
 ```
