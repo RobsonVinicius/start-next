@@ -32,6 +32,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Install the dependencies: 
 
+Next Project:
+
 ```bash
 npm install
 # or 
