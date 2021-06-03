@@ -11,6 +11,7 @@ Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
 React JS | Uma biblioteca JavaScript para criar interfaces de usuário | 16.13.0 | https://pt-br.reactjs.org/
 Next JS| The React Framework for Production | 10.0.3 | https://nextjs.org/
+Theme UI | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles.  | 0.3.2 | https://theme-ui.com/home
 react-scroll | Component for animating vertical scrolling | 1.8.0 | https://www.npmjs.com/package/react-scroll
 react-custom-scrollbars | Custom Scroolbars | 4.2.1 | https://www.npmjs.com/package/react-custom-scrollbars
 
