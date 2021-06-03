@@ -4,14 +4,14 @@
 	.st1{fill:url(#SVGID_2_);}
 	.st2{fill:#24384C;}</style>
  <defs>
-  <symbol id="svg_34" version="1" viewBox="0 0 195 37" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+  <symbol id="svg_34" viewBox="0 0 195 37" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
    <style type="text/css">.st0{fill:#0898E7;}
 	.st1{fill:#FAAE1B;}
 	.st2{fill:#24384C;}</style>
-   <g>
-    <path class="st0" d="m11.2,32.8l20.3,-14.4l-20.3,-14.4l0,28.8z"/>
-    <g>
-     <polygon class="st1" points="41.7,18.4 21.4,4 21.4,9.2 34.4,18.4 21.4,27.6 21.4,32.8   "/>
+   <g id="svg_1">
+    <path class="st0" d="m11.2,32.8l20.3,-14.4l-20.3,-14.4l0,28.8z" id="svg_2"/>
+    <g id="svg_3">
+     <polygon class="st1" id="svg_4" points="41.7,18.4 21.4,4 21.4,9.2 34.4,18.4 21.4,27.6 21.4,32.8   "/>
     </g>
    </g>
    <g id="svg_23">
