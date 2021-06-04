@@ -103,7 +103,7 @@ export default {
       pb: ['90px', null, 9, null, null, 10, null, '190px'],
       overflow: 'hidden',
     },
-    services: {
+    services: {      
       pb: ['90px', null, 9, null, null, 10, null, '150px'],
     },
     pricing: {
