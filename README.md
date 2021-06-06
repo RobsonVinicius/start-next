@@ -15,6 +15,8 @@ Theme UI | Theme UI is a library for creating themeable user interfaces based on
 react-scroll | Component for animating vertical scrolling | 1.8.0 | https://www.npmjs.com/package/react-scroll
 react-custom-scrollbars | Custom Scroolbars | 4.2.1 | https://www.npmjs.com/package/react-custom-scrollbars
 react-modal-video | Modal Video | 1.2.6 | https://www.npmjs.com/package/react-modal-video
+react-multi-carousel | Multi Carousel | 2.5.5 | https://www.npmjs.com/package/react-multi-carousel
+
 <br>
 
 ## Preview Demo
